@@ -35,6 +35,7 @@
 *.i*86
 *.x86_64
 *.hex
+*.bin
 
 # Debug files
 *.dSYM/
@@ -52,4 +53,8 @@ Mkfile.old
 dkms.conf
 
 #project config files
-demo.uvguix.
+demo.uvguix.*
+*.crf
+*.htm*
+*.lnp
+*.dep
